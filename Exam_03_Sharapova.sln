@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{7A0F6816-70A5-4DAF-B6B0-A4F46291280F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Exam_03_Sharapova_Diagram.drawio.png = ..\..\..\Downloads\Exam_03_Sharapova_Diagram.drawio.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A6ADF7ED-F6A7-4DBD-A2FB-C606CA8656BD}"
+	ProjectSection(SolutionItems) = preProject
+		Отчет по тестированию.docx = Отчет по тестированию.docx
+		Тест-план.docx = Тест-план.docx
+		Тест-требования.docx = Тест-требования.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AD99076A-8EA9-40FA-B43A-72EEC3ADE95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Exam_03_Sharapova", "Console_Exam_03_Sharapova\Console_Exam_03_Sharapova.csproj", "{EF4E903C-14C8-482E-99A1-26AA85A07321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4E903C-14C8-482E-99A1-26AA85A07321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4E903C-14C8-482E-99A1-26AA85A07321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4E903C-14C8-482E-99A1-26AA85A07321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4E903C-14C8-482E-99A1-26AA85A07321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF4E903C-14C8-482E-99A1-26AA85A07321} = {AD99076A-8EA9-40FA-B43A-72EEC3ADE95D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2247D9F3-543C-42E9-AAD7-BFC24E975AEB}
+	EndGlobalSection
+EndGlobal
